@@ -54,8 +54,8 @@
 [sql]: https://www.apachefriends.org/index.html
 [github]: https://github.com/
 
-<p align="center"
+<h1 align="center"
 ![resize](https://user-images.githubusercontent.com/59632363/93660930-f8c90100-fa7d-11ea-83a1-1653488a01b4.gif)
-</p>
+</h1>
 
 
