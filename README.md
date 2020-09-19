@@ -10,6 +10,8 @@
 - ⚡ Fun fact: I love to play guitar / piano / music / travel
 - 📫 How to reach me conacmong5@gmail.com
 
+### Spotify play music with me: 
+[![Spotify](https://anhtpde140084.vercel.app/api/spotify)](https://open.spotify.com/user/31b6p7anwd6bijefvrulxudxycuq)
 
 ### Connect with me:
 
