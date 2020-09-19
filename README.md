@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to play guitar / piano / music / travel
 - 📫 How to reach me conacmong5@gmail.com
 
-<hr />
+
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="anhtpde140084 Spotify Playing" width="350" />](https://open.spotify.com/user/31b6p7anwd6bijefvrulxudxycuq)
 
@@ -55,7 +55,6 @@
 [github]: https://github.com/
 
 
-<br />
 ![khunglonggif](https://user-images.githubusercontent.com/59632363/93660788-adfab980-fa7c-11ea-87a3-bd220d7f6d5d.gif)
 
 
