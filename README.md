@@ -11,7 +11,7 @@
 - 📫 How to reach me conacmong5@gmail.com
 
 ### Spotify play music with me: 
-[<img src="https://anhtpde140084.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31b6p7anwd6bijefvrulxudxycuq)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="anhtpde140084 Spotify Playing" width="350" />](https://open.spotify.com/user/31b6p7anwd6bijefvrulxudxycuq)
 
 
 
