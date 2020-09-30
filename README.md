@@ -1,8 +1,7 @@
-### Hi there, I'm Trần Phi Anh 👋
+<h1 align="center">Hi there, I'm Trần Phi Anh 👋</h1>
+<h3 align="center"> I'm a Developer!</h3>
 
-
-## I'm a Developer!
-
+### Talking about Personal Stuffs:
 - 🔭 I’m currently working on FPT University
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Java Developers
@@ -54,7 +53,8 @@
 [sql]: https://www.apachefriends.org/index.html
 [github]: https://github.com/
 
-![resize](https://user-images.githubusercontent.com/59632363/93660930-f8c90100-fa7d-11ea-83a1-1653488a01b4.gif)
+<p align="left"> <img src="https://user-images.githubusercontent.com/59632363/93660930-f8c90100-fa7d-11ea-83a1-1653488a01b4.gif" alt="zynsdev" /> </p>
+
 
 
 
