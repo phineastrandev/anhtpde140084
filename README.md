@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I love to play guitar / piano / music / travel
 - 📫 How to reach me conacmong5@gmail.com
 
+</p>
 
 ### SoundCloud Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://soundcloud.com/tr-n-phi-anh-900810560/sets/nh-c-hay)
@@ -56,6 +57,5 @@
 
 ![resize](https://user-images.githubusercontent.com/59632363/93660930-f8c90100-fa7d-11ea-83a1-1653488a01b4.gif)
 
-</p>
 
 
