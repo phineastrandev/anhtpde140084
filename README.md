@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Trần Phi Anh 👋</h1>
 <h3 align="center"> I'm a Developer!</h3>
 
-<p align="center"> 
+
 ### Talking about Personal Stuffs:
 - 🔭 I’m currently working on FPT University
 - 🌱 I’m currently learning everything 🤣
@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to play guitar / piano / music / travel
 - 📫 How to reach me conacmong5@gmail.com
 
-</p>
+
 
 ### SoundCloud Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://soundcloud.com/tr-n-phi-anh-900810560/sets/nh-c-hay)
