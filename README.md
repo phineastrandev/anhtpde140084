@@ -13,7 +13,7 @@
 
 
 ### SoundCloud Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" target="_blank" width="350" />](https://soundcloud.com/tr-n-phi-anh-900810560/sets/nh-c-hay)
+[<a href="https://soundcloud.com/tr-n-phi-anh-900810560/sets/nh-c-hay" target="_blank"><img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing"  width="350" /> </a>](https://soundcloud.com/tr-n-phi-anh-900810560/sets/nh-c-hay)
 
 <hr />
 
