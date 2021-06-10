@@ -9,6 +9,8 @@
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: I love to play guitar / piano / music / travel
 - 📫 How to reach me conacmong5@gmail.com
+- Save life story video: https://www.youtube.com/channel/UC_cksPWanjpbJMz3oKVcA_A
+- Save technology video: https://www.youtube.com/channel/UCV2rHGCl7OXNSIk6yJPrTrQ
 
 
 
