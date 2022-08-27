@@ -5,6 +5,8 @@
 <h1 align="center">Hi there, I'm Trần Phi Anh 👋</h1>
 <h3 align="center"> I'm a Developer!</h3>
 
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 ### Talking about Personal Stuffs:
 
 - 👜 I'm currently working on FPT Software
