@@ -1,8 +1,12 @@
+<a href="#" target="_blank">
+  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+</a>
+
 <h1 align="center">Hi there, I'm Trần Phi Anh 👋</h1>
 <h3 align="center"> I'm a Developer!</h3>
 
-
 ### Talking about Personal Stuffs:
+
 - 👜 I'm currently working on FPT Software
 - 🔭 I’m currently studying on FPT University
 - 🌱 I’m currently learning everything 🤣
@@ -13,10 +17,9 @@
 - Save life story video: https://www.youtube.com/channel/UC_cksPWanjpbJMz3oKVcA_A
 - Save technology video: https://www.youtube.com/channel/UCV2rHGCl7OXNSIk6yJPrTrQ
 
-
-
 ### SoundCloud Playing 🎧
-[<a href="https://soundcloud.com/tr-n-phi-anh-900810560/sets/nh-c-hay" target="_blank"><img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing"  width="350" /> </a>]
+
+[<a href="https://soundcloud.com/tr-n-phi-anh-900810560/sets/nh-c-hay" target="_blank"><img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" /> </a>]
 
 <hr />
 
@@ -41,7 +44,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-
 <br />
 <br />
 
@@ -60,6 +62,3 @@
 [github]: https://github.com/
 
 ![resize](https://user-images.githubusercontent.com/59632363/93660930-f8c90100-fa7d-11ea-83a1-1653488a01b4.gif)
-
-
-
