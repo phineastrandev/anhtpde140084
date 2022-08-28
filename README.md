@@ -12,8 +12,6 @@
 - 👯 I’m looking to collaborate with any Developers
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: I love to play guitar / piano / music / travel
-- Save life story video: https://www.youtube.com/channel/UC_cksPWanjpbJMz3oKVcA_A
-- Save technology video: https://www.youtube.com/channel/UCV2rHGCl7OXNSIk6yJPrTrQ
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
