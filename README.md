@@ -58,16 +58,16 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/Anhtpde140084/" target="blank">
+  <a href="https://www.facebook.com/Anhtpde140084/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="phianh-facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UC_cksPWanjpbJMz3oKVcA_A" target="blank">
+  <a href="https://www.youtube.com/channel/UC_cksPWanjpbJMz3oKVcA_A" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="phianh-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/n%C4%83m-c%C3%A1nh-sao-627431118/" target="blank">
+  <a href="https://www.linkedin.com/in/n%C4%83m-c%C3%A1nh-sao-627431118/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="phianh-linkedin" />
   </a>
-  <a href="https://www.instagram.com/tran_phi_anh_2008" target="blank">
+  <a href="https://www.instagram.com/tran_phi_anh_2008" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="phianh-instagram" />
   </a>
   <a href="mailto:tranphianh1518@gmail.com" target="top">
