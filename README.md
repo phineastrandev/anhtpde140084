@@ -2,9 +2,6 @@
   <img src="svg/tranphianhdev.svg" width="1200" alt="trungquandev-official" />
 </a>
 
-<h1 align="center">Hi there, I'm Trần Phi Anh 👋</h1>
-<h3 align="center"> I'm a Developer!</h3>
-
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
@@ -15,7 +12,6 @@
 - 👯 I’m looking to collaborate with any Developers
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: I love to play guitar / piano / music / travel
-- 📫 How to reach me tranphianh1518@gmail.com
 - Save life story video: https://www.youtube.com/channel/UC_cksPWanjpbJMz3oKVcA_A
 - Save technology video: https://www.youtube.com/channel/UCV2rHGCl7OXNSIk6yJPrTrQ
 
