@@ -18,7 +18,7 @@
 				}
         .quotes-eng {
           font-size: 18px;
-		  text-align: 'center'
+		  text-align: 'center';
         }
         .quotes-vi {
           font-size: 18px;
@@ -30,7 +30,7 @@
 			</style>
 
 			<div class="container">
-        <div class="quotes-eng">"The lion cannot protect himself from traps, and the fox cannot defend himself from wolves. One must therefore be a fox to recognize traps, and a lion to frighten wolves."</div>
+        <div  align="center" class="quotes-eng">"The lion cannot protect himself from traps, and the fox cannot defend himself from wolves. One must therefore be a fox to recognize traps, and a lion to frighten wolves."</div>
         <div class="tranphianh-signature">-Mahatma Ghandi-</div>
       </div>
 		</div>
