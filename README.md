@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate with any Developers
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: I love to play guitar / piano / music / travel
-
+<br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
