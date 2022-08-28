@@ -53,42 +53,31 @@
 <span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=010101" alt="Socket.io logo" title="Socket.io" height="25" /></span>
 &nbsp;
 
-### Connect with me:
+<br>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://www.facebook.com/Anhtpde140084/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="phianh-facebook" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC_cksPWanjpbJMz3oKVcA_A" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="phianh-youtube" />
+  </a>
+  <a href="https://www.linkedin.com/in/n%C4%83m-c%C3%A1nh-sao-627431118/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="phianh-linkedin" />
+  </a>
+  <a href="https://www.instagram.com/tran_phi_anh_2008" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="phianh-instagram" />
+  </a>
+  <a href="mailto:tranphianh1518@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="phianh-email" />
+  </a>
+</div>
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visual]
-[<img align="left" alt="React" width="26px" src="(https://user-images.githubusercontent.com/59632363/127848330-1ba630f2-c2d0-476b-b915-8d4567a84fb6.png" />][web]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][web]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][web]
-[<img align="left" alt="Intelij" width="26px" src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo_01.png" />][intelij]
-[<img align="left" alt="Java" width="26px" src="https://library.kissclipart.com/20181005/xwq/kissclipart-java-core-clipart-java-platform-enterprise-editio-79b63cdfe5ed19c5.jpg" />][java]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][sql]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
-<br />
-<br />
-
----
-
-[facebook]: https://www.facebook.com/Anhtpde140084/
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/tran_phi_anh_2008/
-[linkedin]: https://www.linkedin.com/in/n%C4%83m-c%C3%A1nh-sao-627431118/
-[visual]: https://code.visualstudio.com/
-[intelij]: https://www.jetbrains.com/idea/
-[web]: https://www.w3schools.com/html/
-[java]: https://www.java.com/en/
-[sql]: https://www.apachefriends.org/index.html
-[github]: https://github.com/
-
-![resize](https://user-images.githubusercontent.com/59632363/93660930-f8c90100-fa7d-11ea-83a1-1653488a01b4.gif)
+<br>
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<a href="#" target="_blank">
+  <img src="svg/tranphianh-quotes.svg" width="846" height="150" alt="traphianh" />
+</a>
