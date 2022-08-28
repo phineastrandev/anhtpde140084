@@ -18,18 +18,20 @@
 				}
         .quotes-eng {
           font-size: 18px;
+		  text-align: 'center'
         }
         .quotes-vi {
           font-size: 18px;
         }
-        .trungquandev-signature {
+        .tranphianh-signature {
           font-size: 16px;
         }
+		
 			</style>
 
 			<div class="container">
         <div class="quotes-eng">"The lion cannot protect himself from traps, and the fox cannot defend himself from wolves. One must therefore be a fox to recognize traps, and a lion to frighten wolves."</div>
-        <div class="trungquandev-signature">-Mahatma Ghandi-</div>
+        <div class="tranphianh-signature">-Mahatma Ghandi-</div>
       </div>
 		</div>
 	</foreignObject>
