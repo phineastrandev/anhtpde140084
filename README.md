@@ -6,8 +6,8 @@
 
 ### Talking about Personal Stuffs:
 
-- 👜 I'm currently working on FPT Software
-- 🔭 I’m currently studying on FPT University
+- 👜 I'm currently working on Corize Inc VietNam
+- 🔭 I studied at FPT University
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with any Developers
 - 💬 Ask me about anything, I am happy to help;
